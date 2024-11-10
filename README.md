@@ -52,3 +52,21 @@
     <td> <a href="#">진행중 </a> </td>
   </tr>
 </table>
+
+<h3>📚 개인 프로젝트 </h3>
+<table>
+  <tr>
+    <th>프로젝트 명</th>
+    <th>기간</th>
+    <th>목적</th>
+    <th>GitHub</th>
+    <th>사이트주소</th>
+  </tr>
+  <tr>
+    <td> 19BurgerTable </td>
+    <td> 2024.11.03 ~진행중 </td>
+    <td> 수제버거 가게 매출, 직원, 재고 관리 서비스 </td>
+    <td> <a href="https://github.com/geonokwon/Team3_WishD">19BurgerTable (GitHub) </a> </td>
+    <td> <a href="#"> 진행중 </a> </td>
+  </tr>
+</table>
