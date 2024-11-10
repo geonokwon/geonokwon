@@ -50,7 +50,7 @@
     <td> BookJuk BookJuk </td>
     <td> 2024.10.01 ~ 2024.11.21 </td>
     <td> 중고 책 매입 대여 고객관리 서비스 </td>
-    <td> <a href="https://github.com/geonokwon/Team1_BookJukBookJuk">BookJuk BookJuk (GitHub) </a> </td>
+    <td> <a href="https://github.com/geonokwon/Team1_BookJukBookJuk/tree/dev_kgo">BookJuk BookJuk (GitHub) </a> </td>
     <td> <a href="#">진행중 </a> </td>
   </tr>
 </table>
