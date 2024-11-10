@@ -42,6 +42,14 @@
     <td> 2024.08.08 ~ 2024.09.26 </td>
     <td> 프리랜서(개발자) 매칭 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team3_WishD">WishD (GitHub) </a> </td>
-    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/" target="_blank">WishD </a> </td>
+    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/">WishD </a> </td>
+  </tr>
+  
+  <tr>
+    <td> BookJukBookJuk </td>
+    <td> 2024.10.01 ~ 2024.11.21 </td>
+    <td> 중고 책 매입 대여 고객관리 서비스 </td>
+    <td> <a href="https://github.com/geonokwon/Team3_WishD">WishD (GitHub) </a> </td>
+    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/">WishD </a> </td>
   </tr>
 </table>
