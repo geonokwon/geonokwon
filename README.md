@@ -1,7 +1,11 @@
-<h1 align="left">Hi 👋, I'm Kwon Geon O (권건오)</h1>
+<h1 align="left">Hi I'm Kwon Geon O (권건오)</h1>
 <h3 align="left">Web Developer(BackEnd)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Skill</h5>
+<table>
+  <th>
+  </th>
+</table>
 <p align="left">
 </p>
 
