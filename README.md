@@ -1,6 +1,6 @@
 <h1 align="left">Hi I'm Kwon Geon O (권건오)</h1>
 <h3>⭐️ 새로운 도전</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; - 30살에 개발을 시작하다!</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; - 개발을 시작하다!</p>
 <h3>🎯 목표</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; - Web Developer(BackEnd)</p>
 
