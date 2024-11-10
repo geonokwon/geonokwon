@@ -35,7 +35,7 @@
     <th>프로젝트 명</th>
     <th>기간</th>
     <th>목적</th>
-    <th>GitHub</th>
+    <th><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></th>
     <th>사이트주소</th>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
     <th>프로젝트 명</th>
     <th>기간</th>
     <th>목적</th>
-    <th>GitHub</th>
+    <th><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></th>
     <th>사이트주소</th>
   </tr>
   <tr>
