@@ -35,11 +35,13 @@
     <th>기간</th>
     <th>목적</th>
     <th>링크</th>
+    <th>배포 주소</th>
   </tr>
   <tr>
     <td> WishD </td>
     <td> 2024.08.08 ~ 2024.09.26 </td>
     <td> 프리랜서(개발자) 매칭 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team3_WishD">WishD (GitHub) </a> </td>
+    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/">WishD (배포주소) </a>< /td>
   </tr>
 </table>
