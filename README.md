@@ -9,25 +9,26 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>                    <!-- 자바 -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>                  <!-- HTML -->
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>                     <!-- CSS -->
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>        <!-- 자바스크립트 -->
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">                   <!-- 리엑트 -->
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">                 <!-- 제이쿼리 -->
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>                                             <!-- CSS -->
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>                                <!-- 자바스크립트 -->
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">                                           <!-- 리엑트 -->
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">                                         <!-- 제이쿼리 -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>                <!-- OracleDB -->
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>                  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>                                          <!-- MySQL -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>                <!-- 스프링 -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>        <!-- 스프링부트 -->
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">           <!-- 부트스트랩 -->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>                                <!-- 스프링부트 -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>          <!-- AWS -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">                 <!-- 깃헙 -->
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">                       <!-- 깃 -->
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">                                               <!-- 깃 -->
 </p>
 
 <h3>📚 팀프로젝트 (부트캠프)</h3>
+아이티윌(부산)
+AWS 클라우드 기반 자바 스프링 백엔드 개발자 과정
 <table>
   <tr>
     <th>프로젝트 명</th>
