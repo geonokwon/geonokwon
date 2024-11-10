@@ -42,6 +42,6 @@
     <td> 2024.08.08 ~ 2024.09.26 </td>
     <td> 프리랜서(개발자) 매칭 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team3_WishD">WishD (GitHub) </a> </td>
-    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/">WishD (배포주소) </a> </td>
+    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/" target="_blank">WishD </a> </td>
   </tr>
 </table>
