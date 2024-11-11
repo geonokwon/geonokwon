@@ -5,6 +5,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; - Web Developer(BackEnd)</p>
 
 <h3>✏️ 공부</h3>
+<p><a href="https://github.com/geonokwon/KGO_study">공부자료 (GitHub) </a></p>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>                    <!-- 자바 -->
   <br>
