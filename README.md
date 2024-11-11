@@ -18,7 +18,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>                <!-- OracleDB -->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>                                          <!-- MySQL -->
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>                <!-- 스프링 -->
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jsp-07405E?style=flat-square&logo=jsp&logoColor=white"/>                      <!-- JSP -->
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>                                        <!-- 스프링 -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>                                <!-- 스프링부트 -->
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>          <!-- AWS -->
