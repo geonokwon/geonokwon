@@ -1,4 +1,4 @@
-<h1 align="left">Hi I'm Kwon Geon O (권건오)</h1>
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/6db5256d-4bf7-428f-ba94-7e1da16f3de2"><h1 align="left">Hi I'm Kwon Geon O (권건오)</h1>
 <h3>⭐️ 새로운 도전</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; - 개발을 시작하다!</p>
 <h3>🎯 목표</h3>
@@ -53,7 +53,7 @@
     <td> 2024.10.01 ~ 2024.11.21 </td>
     <td> 중고 책 매입 대여 고객관리 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team1_BookJukBookJuk/tree/dev_kgo">BookJuk BookJuk (GitHub) </a> </td>
-    <td> <a href="#">진행중 </a> </td>
+    <td> <a href="http://c1d2405t12.itwillbs.com/">BookJuk BookJuk </a> </td>
   </tr>
 </table>
 
