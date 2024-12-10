@@ -71,7 +71,7 @@
     <td> 2024.11.03 ~진행중 </td>
     <td> 수제버거 가게 매출, 직원, 재고 관리 서비스 </td>
     <td> <a href="https://github.com/geonokwon/19BurgerTable">19BurgerTable (GitHub) </a> </td>
-    <td> <a href="#"> 진행중 </a> </td>
+    <td> <a href="http://211.57.3.140:8080/"> 진행중(중간 배포) </a> </td>
   </tr>
 </table>
 <hr>
