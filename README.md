@@ -26,6 +26,8 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">                 <!-- 깃헙 -->
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">                                               <!-- 깃 -->
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">                   <!-- 유니티 -->
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;2024년 5월 ~ 2024년 11월</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;- 아이티윌(부산교육센터) 'AWS 클라우드 기반 자바 스프링 백엔드 개발자 과정'</p>
