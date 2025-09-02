@@ -1,8 +1,9 @@
 <h1 align="left">Hi I'm Kwon Geon O (권건오)</h1>
 <h3>⭐️ 새로운 도전</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; - 개발을 시작하다!</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; - 프론트 개발을 공부해보자!!</p>
 <h3>🎯 목표</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; - Web Developer(BackEnd)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; - Web Developer(FrontEnd)</p>
 
 <h3>✏️ 공부</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/geonokwon/KGO_study">공부자료 (GitHub) </a></p>
