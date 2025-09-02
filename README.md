@@ -62,13 +62,6 @@
     <td> <a href="http://c1d2405t12.itwillbs.com/">BookJuk </a> </td>
   </tr>
 
-  <tr>
-    <td> 사장님 MBTI </td>
-    <td> 2025.04.10 ~ 2025.05.31 </td>
-    <td> 사장님용 MBTI 프로젝트 </td>
-    <td> <a href="https://github.com/geonokwon/React-MBTI"> 사장님 MBTI (GitHub) </a> </td>
-    <td> <a href="https://mbti.genieone-event.com/"> 사장님 MBTI </a> </td>
-  </tr>
 </table>
 
 <h3>📚 개인 프로젝트 </h3>
@@ -89,5 +82,26 @@
   </tr>
 </table>
 <hr>
+
+<h3>📚 회사 프로젝트 </h3>
+<table>
+  <tr>
+    <th>프로젝트 명</th>
+    <th>기간</th>
+    <th>목적</th>
+    <th><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></th>
+    <th>사이트주소</th>
+  </tr>
+  
+  <tr>
+    <td> 사장님 MBTI </td>
+    <td> 2025.04.10 ~ 2025.05.31 </td>
+    <td> 사장님용 MBTI 프로젝트 </td>
+    <td> <a href="https://github.com/geonokwon/React-MBTI"> 사장님 MBTI (GitHub) </a> </td>
+    <td> <a href="https://mbti.genieone-event.com/"> 사장님 MBTI </a> </td>
+  </tr>
+ 
+</table>
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geonokwon&show_icons=true&theme=tokyonight&border_color=#1a1b27) -->
