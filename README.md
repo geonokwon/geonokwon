@@ -32,6 +32,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;2024년 5월 ~ 2024년 11월</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;- 아이티윌(부산교육센터) 'AWS 클라우드 기반 자바 스프링 백엔드 개발자 과정'</p>
 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;2025년 3월 ~ 진행중</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;- 울산 송정 kt지니원 (웹/시스템 개발자로 재직중)</p>
+
 <h3>📚 팀프로젝트 (부트캠프)</h3>
 
 <table>
