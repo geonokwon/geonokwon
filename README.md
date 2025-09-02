@@ -66,7 +66,7 @@
     <td> 사장님 MBTI </td>
     <td> 2025.04.10 ~ 2025.05.31 </td>
     <td> 사장님용 MBTI 프로젝트 </td>
-    <td> <a href="https://github.com/geonokwon/Team1_BookJukBookJuk">BookJuk BookJuk (GitHub) </a> </td>
+    <td> <a href="https://github.com/geonokwon/React-MBTI"> 사장님 MBTI (GitHub) </a> </td>
     <td> <a href="https://mbti.genieone-event.com/"> 사장님 MBTI </a> </td>
   </tr>
 </table>
