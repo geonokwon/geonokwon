@@ -51,7 +51,7 @@
     <td> 2024.08.08 ~ 2024.09.26 </td>
     <td> 프리랜서(개발자) 매칭 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team3_WishD">WishD (GitHub) </a> </td>
-    <td> <a href="http://c1d2405t3.itwillbs.com/WishD/">WishD </a> </td>
+    <td> <p> - </p> </td>
   </tr>
   
   <tr>
@@ -59,7 +59,7 @@
     <td> 2024.10.01 ~ 2024.11.21 </td>
     <td> 중고 책 매입 대여 고객관리 서비스 </td>
     <td> <a href="https://github.com/geonokwon/Team1_BookJukBookJuk">BookJuk BookJuk (GitHub) </a> </td>
-    <td> <a href="http://c1d2405t12.itwillbs.com/">BookJuk </a> </td>
+    <td> <p> - </p> </td>
   </tr>
 
 </table>
@@ -78,7 +78,7 @@
     <td> 2024.11.03 ~진행중 </td>
     <td> 수제버거 가게 매출, 직원, 재고 관리 서비스 </td>
     <td> <a href="https://github.com/geonokwon/19BurgerTable">19BurgerTable (GitHub) </a> </td>
-    <td> <a href="http://211.57.3.140:8080/"> 진행중(중간 배포) </a> </td>
+    <td> <p> - </p> </td>
   </tr>
 </table>
 <hr>
@@ -142,7 +142,7 @@
     <td> 2025.10.01 ~ 2025.10.25 </td>
     <td> WIFI QR 생성기 </td>
     <td> <a href="https://github.com/geonokwon/Wifi_QR_Generator"> WIFI QR 생성기 (GitHub) </a> </td>
-    <td> <a href=""> - </a> </td>
+    <td> <p> - </p> </td>
   </tr>
 
   
@@ -151,7 +151,7 @@
     <td> 2025.10.25 ~ 2025.11.20 </td>
     <td> PDF 다운사이징 </td>
     <td> <a href="https://github.com/geonokwon/PDF-DownSizing"> PDF 다운사이징 (GitHub) </a> </td>
-    <td> <a href=""> - </a> </td>
+    <td> <p> - </p> </td>
   </tr>
  
 </table>
