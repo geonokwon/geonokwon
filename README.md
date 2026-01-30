@@ -100,6 +100,59 @@
     <td> <a href="https://github.com/geonokwon/React-MBTI"> 사장님 MBTI (GitHub) </a> </td>
     <td> <a href="https://mbti.genieone-event.com/"> 사장님 MBTI </a> </td>
   </tr>
+
+  <tr>
+    <td> 자동견적서 </td>
+    <td> 2025.05.31 ~ 2025.07.31 </td>
+    <td> 회사 내부 자동견적서 </td>
+    <td> <a href="https://github.com/geonokwon/autoquote_web"> 자동견적서 (GitHub) </a> </td>
+    <td> <a href="https://auto.genieone-event.com/"> 자동견적서 </a> </td>
+  </tr>
+
+  
+  <tr>
+    <td> 하이오더 랜딩페이지 </td>
+    <td> 2025.09.01 ~ 2026.01.31 </td>
+    <td> 하이오더 랜딩페이지 </td>
+    <td> <a href="https://github.com/geonokwon/HighOrder-HomePage"> 하이오더 페이지 (GitHub) </a> </td>
+    <td> <a href="https://kt-highorder.kr"> 하이오더 페이지 </a> </td>
+  </tr>
+
+  
+  <tr>
+    <td> AI 메뉴이미지 생성 </td>
+    <td> 2025.12.01 ~ 2026.01.31 </td>
+    <td> AI 메뉴이미지 생성 </td>
+    <td> <a href="https://github.com/geonokwon/Image_Processor"> AI 메뉴이미지 생성 (GitHub) </a> </td>
+    <td> <a href="https://image.genieone-event.com"> AI 메뉴이미지 생성 </a> </td>
+  </tr>
+
+
+  <tr>
+    <td> 올인원 상담신청 페이지 </td>
+    <td> 2025.07.01 ~ 2025.08.30 </td>
+    <td> 올인원 상담신청 페이지 </td>
+    <td> <a href="https://github.com/geonokwon/allinone-survey"> 올인원 상담신청 페이지 (GitHub) </a> </td>
+    <td> <a href="https://res.genieone-event.com"> 올인원 상담신청 페이지 </a> </td>
+  </tr>
+
+
+   <tr>
+    <td> WIFI QR 생성기 </td>
+    <td> 2025.10.01 ~ 2025.10.25 </td>
+    <td> WIFI QR 생성기 </td>
+    <td> <a href="https://github.com/geonokwon/Wifi_QR_Generator"> WIFI QR 생성기 (GitHub) </a> </td>
+    <td> <a href=""> - </a> </td>
+  </tr>
+
+  
+   <tr>
+    <td> PDF 다운사이징 </td>
+    <td> 2025.10.25 ~ 2025.11.20 </td>
+    <td> PDF 다운사이징 </td>
+    <td> <a href="https://github.com/geonokwon/PDF-DownSizing"> PDF 다운사이징 (GitHub) </a> </td>
+    <td> <a href=""> - </a> </td>
+  </tr>
  
 </table>
 
